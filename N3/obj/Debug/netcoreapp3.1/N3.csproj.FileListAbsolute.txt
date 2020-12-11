@@ -1,0 +1,13 @@
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.exe
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.deps.json
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.runtimeconfig.json
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.runtimeconfig.dev.json
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.dll
+C:\Users\Vasyl\Desktop\EXAM\N3\bin\Debug\netcoreapp3.1\N3.pdb
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.csprojAssemblyReference.cache
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.AssemblyInfoInputs.cache
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.AssemblyInfo.cs
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.csproj.CoreCompileInputs.cache
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.dll
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.pdb
+C:\Users\Vasyl\Desktop\EXAM\N3\obj\Debug\netcoreapp3.1\N3.genruntimeconfig.cache

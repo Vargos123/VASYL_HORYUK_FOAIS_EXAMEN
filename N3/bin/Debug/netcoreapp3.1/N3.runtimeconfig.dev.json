@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vasyl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vasyl\\.nuget\\packages"
+    ]
+  }
+}
